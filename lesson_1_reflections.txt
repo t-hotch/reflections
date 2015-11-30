@@ -1,0 +1,24 @@
+Using the Fc command showed me all the sections
+that were different on one screen instead of me 
+having to compere them line by line. This saved
+a great deal of time. 
+
+Having access to all the versions would help 
+debugg it if an update starts causing bugs.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+Pros: all your commits should be a logic points; you can ensure that multiple new changes are commited seperately
+
+Cons: you may forget; user error;
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+because git was designed for code which typically have multiple files for a single application. while google docs is more of a corlaboration tool for multiple people working on invdivual documents.
+
+How can you use the commands git log and git diff to view the history of files?
+to find unexecpted errors in new verions of code that were in the pervious.
+
+How might using version control make you more confident to make changes that could break something?
+knowing that I would easliy be able to access the previsous verison would make it easier to creect a new bug making me less worriesome of trying more difficult improvements.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+To make chaning my code less stressful.
